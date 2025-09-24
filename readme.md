@@ -3,12 +3,12 @@
 ⚡A simple, *fetch-inspired system information tool written in Zig. This project serves as a basic example of a command-line application in Zig, focusing on a simple, modular design that is easy to expand. Running the program will currently produce output similar to this:
 
 ```
-OS       : linux
-Kernel   : 6.5.0-10-generic
-Hostname : my-zig-devbox
+OS       : Linux
+Kernel   : 6.16.8_1
+Hostname : saturn
 User     : noro
-Shell    : zsh
-Uptime   : 1d 4h 22m
+Shell    : bash
+Uptime   : 2d 15h 22m
 ```
 
 ### Features
