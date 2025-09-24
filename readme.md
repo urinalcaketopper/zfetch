@@ -82,6 +82,6 @@ const fetch_items = [_]FetchItem{
 
 The program will automatically pick up the new item, display its label, and align the output correctly.
 
-##License
+## License
 
 This project is licensed under the GPL License.
