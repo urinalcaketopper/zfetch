@@ -1,0 +1,6 @@
+Package: zfetch
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Tristan <tristan@fddl.dev>
+Description: A fast, simple system information fetch tool written in Zig.
+
