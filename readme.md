@@ -3,12 +3,12 @@
 ⚡A simple, *fetch-inspired system information tool written in Zig. This project serves as a basic example of a command-line application in Zig, focusing on a simple, modular design that is easy to expand. Running the program will currently produce output similar to this:
 
 ```
-OS       : Linux
-Kernel   : 6.16.8_1
-Hostname : saturn
-User     : noro
-Shell    : bash
-Uptime   : 2d 15h 22m
+  \\  //  Distribution : Void Linux
+   \\//   Kernel       : 6.16.8_1
+    //    Hostname     : saturn
+   //\\   User         : noro
+  //  \\  Shell        : bash
+          Uptime       : 0d 2h 19m
 ```
 
 ### Features
